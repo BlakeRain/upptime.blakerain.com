@@ -7,17 +7,22 @@ sites:
   - name: blakerain.com
     url: https://blakerain.com
   - name: blakerain.com (search)
-    url: https://blakerain.com:9443/
+    url: https://blakerain.com:9443/search/status
+
+assignees:
+  - BlakeRain
 
 status-website:
   cname: status.blakerain.com
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  logoUrl: https://s3-eu-west-1.amazonaws.com/s3.blakerain.com/media/logo.png
+  name: status.blakerain.com
+  introTitle: Monitor status of various resources under blakerain.com
+  introMessage: This is the current status of various resources found under blakerain.com. This page is generated using the wonderful [upptime](https://github.com/upptime/upptime).
   navbar:
     - title: Status
       href: /
+    - title: Site
+      href: https://blakerain.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
