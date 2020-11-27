@@ -5,14 +5,14 @@
     "slug": "blakerain-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 548
+    "time": 575
   },
   {
     "name": "blakerain.com (search)",
     "url": "https://blakerain.com:9443/search/status",
     "slug": "blakerain-com-search",
     "status": "up",
-    "uptime": "0.98%",
-    "time": 358
+    "uptime": "97.74%",
+    "time": 378
   }
 ]
