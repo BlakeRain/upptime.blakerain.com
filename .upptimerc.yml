@@ -6,8 +6,6 @@ repo: upptime.blakerain.com # Your Github repository name
 sites:
   - name: blakerain.com
     url: https://blakerain.com
-  - name: blakerain.com (search)
-    url: https://blakerain.com:9443/search/status
 
 assignees:
   - BlakeRain
