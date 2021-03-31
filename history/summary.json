@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/blakerain.com",
     "slug": "blakerain-com",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 605,
-    "timeDay": 596,
-    "timeWeek": 613,
+    "timeDay": 602,
+    "timeWeek": 609,
     "timeMonth": 612,
     "timeYear": 605,
-    "dailyMinutesDown": {
-      "2020-11-26": 17
-    }
+    "dailyMinutesDown": {}
   }
 ]
