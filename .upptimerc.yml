@@ -11,11 +11,14 @@ assignees:
   - BlakeRain
 
 status-website:
+  theme: dark
   cname: status.blakerain.com
   logoUrl: https://s3-eu-west-1.amazonaws.com/s3.blakerain.com/media/logo.png
   name: status.blakerain.com
   introTitle: Monitor status of various resources under blakerain.com
-  introMessage: This is the current status of various resources found under blakerain.com. This page is generated using the wonderful [upptime](https://github.com/upptime/upptime).
+  introMessage:
+    This is the current status of various resources found under blakerain.com. This page is
+    generated using the wonderful [upptime](https://github.com/upptime/upptime).
   navbar:
     - title: Status
       href: /
@@ -24,5 +27,5 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  update: "*/30 * * * *"
