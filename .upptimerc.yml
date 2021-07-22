@@ -1,8 +1,6 @@
-# Change these first
-owner: BlakeRain # Your GitHub username
-repo: upptime.blakerain.com # Your Github repository name
+owner: BlakeRain
+repo: upptime.blakerain.com
 
-# Add your sites here
 sites:
   - name: blakerain.com
     url: https://blakerain.com
@@ -11,8 +9,9 @@ assignees:
   - BlakeRain
 
 status-website:
-  themeUrl: https://status.blakerain.com/theme.css
   cname: status.blakerain.com
+  theme: night
+  # themeUrl: https://status.blakerain.com/theme.css
   logoUrl: https://s3-eu-west-1.amazonaws.com/s3.blakerain.com/media/logo.png
   name: status.blakerain.com
   introTitle: Monitor status of various resources under blakerain.com
