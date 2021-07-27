@@ -4,17 +4,17 @@
     "url": "https://blakerain.com",
     "icon": "https://favicons.githubusercontent.com/blakerain.com",
     "slug": "blakerain-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 582,
-    "timeWeek": 603,
-    "timeMonth": 582,
-    "timeYear": 580,
+    "time": 579,
+    "timeDay": 546,
+    "timeWeek": 591,
+    "timeMonth": 580,
+    "timeYear": 579,
     "dailyMinutesDown": {}
   }
 ]
