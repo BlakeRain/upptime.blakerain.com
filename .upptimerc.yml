@@ -12,7 +12,7 @@ status-website:
   cname: status.blakerain.com
   theme: night
   # themeUrl: https://status.blakerain.com/theme.css
-  logoUrl: https://s3.eu-west-1.amazonaws.com/static.blakerain.com/media/images/logo-small.png
+  logoUrl: https://s3.eu-west-1.amazonaws.com/static.blakerain.com/media/images/logo.png
   name: status.blakerain.com
   introTitle: Monitor status of various resources under blakerain.com
   introMessage:
@@ -27,4 +27,4 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 workflowSchedule:
-  update: "*/30 * * * *"
+  uptime: "*/30 * * * *"
